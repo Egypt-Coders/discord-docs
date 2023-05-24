@@ -11,10 +11,10 @@ First start off with joining our Discord server.
 **This is our official Discord link:**
 
 ```
-https://discord.gg/alx-egypt-1077145836795990066
+https://discord.gg/alx
 ```
 
-[Click Here](https://discord.gg/alx-egypt-1077145836795990066) to join the server or follow the instructions below.
+[Click Here](https://discord.gg/alx) to join the server or follow the instructions below.
 
 ### 🤔 How to Join the Server?
 
