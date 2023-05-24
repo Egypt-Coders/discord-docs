@@ -12,13 +12,13 @@ The header channels are channels that members cannot type in. Instead, they are 
 ### `🧾・〉𝐑𝐮𝐥𝐞𝐬`
 This channel is where we have our community guidelines and rules. Make sure to check them out and familiarize yourself with them. 
 
+### `📢・〉𝐀𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬`
+This channel is one of the most important channels in the server. Here, we post all of our server-wide announcements to keep everyone up-to-date on what's happening in the community.
 ### `🙋・〉𝐖𝐞𝐥𝐜𝐨𝐦𝐞`
 In this channel, we welcome new members to the server with a banner. 
 
 Feel free to wave or say hello to them. 😉
 
-### `📢・〉𝐀𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬`
-This channel is one of the most important channels in the server. Here, we post all of our server-wide announcements to keep everyone up-to-date on what's happening in the community.
 
 ### `🌟・〉𝐑𝐨𝐥𝐞𝐬`
 
@@ -28,6 +28,11 @@ from here you can get some cosmatic roles to stand out and let people know what 
 In this channel, you can find the names of the staff members and their positions in the server, as well as their availability status. This can be useful if you need to contact someone for help, as you can see whether they're currently active or on a break.
 
  ``` Make sure to respect the availability status of the staff members, and only contact them when they're available to help. If you have any questions or are unsure where to post something, don't hesitate to ask for help in the chat channels. ```
+
+### `🔍・〉𝐑𝐞𝐯𝐢𝐞𝐰𝐬`
+This is the place where our members share their feedback regarding our server, community, and mentors.
+### `🤐・〉𝗛𝗮𝗹𝗹-𝗢𝗳-𝗦𝗵𝗮𝗺𝗲`
+This channel serves as a public documentation of our staff's actions, including bans and timeouts. Here, you can find proof for every member who has been banned from our server.
 
 ### `🔗・〉𝗔𝗟𝗫-𝗬𝗼𝘂𝗧𝘂𝗯𝗲-𝗟𝗶𝗻𝗸𝘀`
 This channel contains links to all Alx live streams content, sorted by date and well-organized. Be sure to check them out!
